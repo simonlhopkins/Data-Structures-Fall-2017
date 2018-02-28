@@ -1,0 +1,5 @@
+
+FIRST                LAST       100        LJ        SP        HJ       400      110H        DT        PV        JT      1500
+Andrei          Krauchanka       910       741       761       752       906       943       948       758       870       962
+Bryan                Clay       910       904       522       868       794       865       984       950       989      1005
+Leonel              Suarez       819       950       750       758       850       913       955       756       883       893
